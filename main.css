@@ -1,0 +1,9 @@
+.delete {
+	cursor: pointer;
+}
+.strike {
+	text-decoration: line-through;
+}
+.hide {
+	display: none;
+}
